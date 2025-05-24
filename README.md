@@ -29,3 +29,15 @@ Amazon_Clone/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Janhavi-2703/Amazon_Clone.git
+
+## 📸 Screenshots
+
+### 🖥️ Homepage View
+![Homepage](Screenshot%202025-05-24%20155516.png)
+
+### 🔎 Product Listings Section
+![Product Listings](Screenshot%202025-05-24%20155533.png)
+
+### 📦 Footer & Navigation
+![Footer](Screenshot%202025-05-24%20155714.png)
+
